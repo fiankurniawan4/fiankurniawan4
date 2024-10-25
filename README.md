@@ -24,7 +24,7 @@ Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ![laravel](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)
 ![nextjs](https://img.shields.io/badge/-nextjs-grey?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=8E2DE2)
-![nextjs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=8E2DE2)
+![nextjs](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=8E2DE2)
 <br>
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
