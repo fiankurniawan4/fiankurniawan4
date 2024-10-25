@@ -30,7 +30,7 @@ Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 
 <br>
 <h4>Follow Me</h3>
-<a href="https://www.instagram.com/yankurniawan284" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/fiank324" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ## 🚶 Visit Me
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCL_jlZHYd4YOIS0uXkKVahg)
