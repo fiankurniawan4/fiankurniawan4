@@ -24,7 +24,6 @@ Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 ![php](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)
 <br>
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
