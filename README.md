@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=fiankurniawan4&label=PROFILE+VIEWS)
 # Fian Kurniawan
 Hi There 👋, I'm Fian Kurniawan, Call Me Yan
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br>
 <h3>Just a Human</h3>
 
@@ -11,7 +12,7 @@ Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 - 📫 How to reach me **yankurniawan60@gmail.com**
 
 <br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 <h3> 👨 Bahasa Program dan Toolsnya </h3>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
