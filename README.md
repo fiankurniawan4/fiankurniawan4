@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?fiankurniawan4&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=fiankurniawan4&label=PROFILE+VIEWS)
 # Fian Kurniawan
 Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 <br>
