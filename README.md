@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=fiankurniawan4&label=PROFILE+VIEWS)
 # Fian Kurniawan
 Hi There 👋, I'm Fian Kurniawan, Call Me Yan
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 <br>
 <h3>Just a Human</h3>
 
