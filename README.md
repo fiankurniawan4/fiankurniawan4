@@ -2,7 +2,7 @@
 # Fian Kurniawan
 Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 <br>
-PHP, Laravel, React JS, JS, My Skill
+PHP, Laravel, JS, NodeJS, ReactJS, etc
 <br>
 <h3>Just a Human</h3>
 
