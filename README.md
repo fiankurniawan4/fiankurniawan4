@@ -5,9 +5,9 @@ Hi There 👋, I'm Fian Kurniawan, Call Me Yan
 <br>
 <h3>Just a Human</h3>
 
-- 🔭 I’m currently working on **Backend Developer**
+- 🔭 I’m currently working on **Laravel Developer**
 
-- 📄 I'm currently learning about **More Backend**
+- 📄 I'm currently learning about **Javascript Framework**
 
 - 📫 How to reach me **yankurniawan60@gmail.com**
 
